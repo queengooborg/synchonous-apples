@@ -1,3 +1,3 @@
 # synchonous-apples
 
-Hello world!
+Hi there, everyone! Hello world!
